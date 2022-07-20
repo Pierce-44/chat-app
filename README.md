@@ -5,7 +5,7 @@
 # Chat App
 A chat app, which was developed using React, Javascript, CSS, HTML, and FireBase (Cloud Firestore and hosting). This app was developed to expand my learning and understanding of Backend-as-a-Service (BaaS) and how FireBase can be used for this, it was conducted as a side project as I continued to work through the open source [Odin Project Fullstack JavaScript Courses](https://www.theodinproject.com/) <img src="https://www.theodinproject.com/assets/icons/odin-icon-b5b31c073f7417a257003166c98cc23743654715305910c068b93a3bf4d3065d.svg"  width="20" height="20">.
 
-![portfolioGif](https://user-images.githubusercontent.com/96740762/179838209-eaf5a457-1257-4c07-a7a6-38244f6ac07a.gif)
+![chatAppGIF](https://user-images.githubusercontent.com/96740762/180039114-c1f618d9-171a-458b-85cd-3608a5f593b8.gif)
 
 <br/>
 
@@ -20,16 +20,16 @@ A chat app, which was developed using React, Javascript, CSS, HTML, and FireBase
 <br/>
 
 ## Features:
-- CSS 3D transformations and animations to create a 3D cube environment that gives a style/theme to the webpage.
-- Implementation of react-intersection-observer, to monitor when elements are in view, allowing for animations and transformations to be triggered.
-- Implementation of react-scroll, gives the ability of an animated vertical scroll to specific selected elements.
+- Implementation of FireBase Authentication to log in to the chat app through a Google account.
+- Implementation of FireBase Cloud Firestore database to record chat messages between users.
+- Implementation of FireBase Hosting.
 <br/>
 
 ## How To Use:
 
 1. Open the live app at the following address:
 
-   [`https://porfolio-ph.web.app/`](https://porfolio-ph.web.app/)
+   [`https://chat-app-d85d5.web.app/`](https://chat-app-d85d5.web.app/)
 
 <br/>
 
@@ -38,7 +38,7 @@ A chat app, which was developed using React, Javascript, CSS, HTML, and FireBase
 
 1. Clone the repository to your local folder of choice
    ```sh
-   git@github.com:Pierce-44/portfolio.git
+   git@github.com:Pierce-44/chat-app.git
    ```
    
    
